@@ -3,13 +3,13 @@
     {
       "title": "Post vue project to github",
       "details": "Add a readme, post it, host it on github pages",
-      "complete": true,
+      "complete": false,
       "id": 1
     },
     {
       "title": "Get better at vue",
       "details": "Keep chipping away\n\nUp next - composition API\n        - firebase / firestore integration\n\nskies the limit\n",
-      "complete": false,
+      "complete": true,
       "id": 2
     }
   ]
